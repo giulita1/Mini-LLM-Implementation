@@ -1,4 +1,7 @@
-Este proyecto es una implementacion desde cero de un modelo de lenguaje a pequeña escala entrenado para predecir el siguiente token utilizando la arquitectura decoder-only.
-Tokenizacion: implementacion de BytePairEncoding mediante tiktoken
-Hardware: optimizado para Apple Silicon (MPS)
-Modelo entrenado utilizando el dataset Wikitext-2
+This project is a from-scratch implementation of a small-scale language model trained for next-token prediction using a decoder-only architecture.
+
+Tokenization: Implementation of Byte Pair Encoding (BPE) using tiktoken.
+
+Hardware: Optimized for Apple Silicon (MPS).
+
+Dataset: Model trained using the Wikitext-2 dataset.
